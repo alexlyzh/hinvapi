@@ -1,0 +1,82 @@
+[
+  {
+    "roomNumber": 1,
+    "roomType": "Basic",
+    "amenities": "TV",
+    "price": 50,
+    "photos": "https://8.react.pages.academy/static/hotel/12.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 3.445465
+  },
+  {
+    "roomNumber": 2,
+    "roomType": "Deluxe",
+    "amenities": "Air Conditioner, Wi-Fi, TV",
+    "price": 500,
+    "photos": "https://8.react.pages.academy/static/hotel/14.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 4.53
+  },
+  {
+    "roomNumber": 3,
+    "roomType": "Updated",
+    "amenities": "Updated couch",
+    "price": 999,
+    "photos": "https://8.react.pages.academy/static/hotel/1.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 5
+  },
+  {
+    "roomNumber": 4,
+    "roomType": "Private Suite",
+    "amenities": "Air Conditioner, Wi-Fi, TV",
+    "price": 15000,
+    "photos": "https://8.react.pages.academy/static/hotel/17.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 2.6
+  },
+  {
+    "roomType": "Added",
+    "amenities": "New",
+    "price": 55,
+    "photos": "https://8.react.pages.academy/static/hotel/1.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 5,
+    "roomNumber": 5
+  },
+  {
+    "roomType": "Added",
+    "amenities": "New",
+    "price": 55,
+    "photos": "https://8.react.pages.academy/static/hotel/1.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 5,
+    "roomNumber": 6
+  },
+  {
+    "roomType": "Added",
+    "amenities": "New",
+    "price": 55,
+    "photos": "https://8.react.pages.academy/static/hotel/1.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 5,
+    "roomNumber": 7
+  },
+  {
+    "roomType": "Added",
+    "amenities": "New",
+    "price": 55,
+    "photos": "https://8.react.pages.academy/static/hotel/1.jpg",
+    "checkinTime": "2022-10-10T21:00:00.000Z",
+    "checkoutTime": "2022-10-11T21:00:00.000Z",
+    "rating": 5,
+    "roomNumber": 8
+  }
+]
